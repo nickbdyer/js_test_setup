@@ -78,5 +78,6 @@ describe('Visiting the homepage', function() {
       })
       .call(done);
   });
+
 });
 
